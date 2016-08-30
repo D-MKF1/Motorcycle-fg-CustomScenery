@@ -1713,6 +1713,88 @@ var open = func(){
 		track.setData(data);
 	}
 ###############################
+	elsif((nearestAirport == "EGBT")){
+		
+		track = RaceTrack.new("Great Britain - Silverstone Circuit",52.07066085,-1.01612500);
+		track.setRange(0.9);
+		track.setRotation(90);
+		
+		track.appendSector(RaceTrackSector.new("Finish",52.07859834,-1.01725098,162,-27,5));
+		track.appendSector(RaceTrackSector.new("Copse",52.07845034,-1.01152091,163,-25,5));
+		track.appendSector(RaceTrackSector.new("Maggots",52.07417979,-1.01039878,164,-25,-5));
+		track.appendSector(RaceTrackSector.new("Becketts",52.07204444,-1.01034478,162,10,-12));
+		track.appendSector(RaceTrackSector.new("Chapel",52.07003907,-1.01115281,162,28,-3));
+		track.appendSector(RaceTrackSector.new("Hangar Straight",52.06754662,-1.01333563,160,60,0));
+		track.appendSector(RaceTrackSector.new("Stowe",52.06338804,-1.01825811,157,25,0));
+		track.appendSector(RaceTrackSector.new("Vale",52.06642351,-1.02253253,156,24,4));
+		track.appendSector(RaceTrackSector.new("Club",52.06744724,-1.02463088,155,0,12));
+		track.appendSector(RaceTrackSector.new("Abbey",52.07119108,-1.01973399,159,26,4));
+		track.appendSector(RaceTrackSector.new("Farm",52.07111705,-1.01674847,160,20,4));
+		track.appendSector(RaceTrackSector.new("Village",52.07239445,-1.01352604,164,30,8));
+		track.appendSector(RaceTrackSector.new("Loop",52.07127129,-1.01260338,164,17,6));
+		track.appendSector(RaceTrackSector.new("Aintree",52.07291132,-1.01172203,164,-33,5));
+		track.appendSector(RaceTrackSector.new("Wellington Straight",52.07431158,-1.01415381,163,-12,12));
+		track.appendSector(RaceTrackSector.new("Brooklands",52.07704940,-1.01957569,159,40,0));
+		track.appendSector(RaceTrackSector.new("Luffield",52.07569750,-1.02113410,160,0,20));
+		track.appendSector(RaceTrackSector.new("Woodcote",52.07757048,-1.02088639,161,-32,8));
+		
+		data = [];
+		append(data,[-1.02453381,52.06755623,155]);
+		append(data,[-1.02015666,52.07102742,159]);
+		append(data,[-1.01905597,52.07120176,159]);
+		append(data,[-1.01759773,52.07107877,160]);
+		append(data,[-1.01669286,52.07113209,160]);
+		append(data,[-1.01599408,52.07131763,160]);
+		append(data,[-1.01389905,52.07235510,164]);
+		append(data,[-1.01350912,52.07239995,164]);
+		append(data,[-1.01323120,52.07213367,164]);
+		append(data,[-1.01294076,52.07154826,164]);
+		append(data,[-1.01275391,52.07132047,164]);
+		append(data,[-1.01233751,52.07128163,164]);
+		append(data,[-1.01188453,52.07188215,164]);
+		append(data,[-1.01170145,52.07261204,164]);
+		append(data,[-1.01170003,52.07288714,164]);
+		append(data,[-1.01202219,52.07311351,164]);
+		append(data,[-1.01889482,52.07695767,159]);
+		append(data,[-1.01958678,52.07704252,159]);
+		append(data,[-1.02018916,52.07686959,159]);
+		append(data,[-1.02041502,52.07600179,160]);
+		append(data,[-1.02085731,52.07572920,160]);
+		append(data,[-1.02151609,52.07572435,160]);
+		append(data,[-1.02192443,52.07599518,160]);
+		append(data,[-1.02185562,52.07641832,160]);
+		append(data,[-1.02091891,52.07753424,161]);
+		append(data,[-1.02029000,52.07799778,161]);
+		append(data,[-1.01916595,52.07843775,161]);
+		append(data,[-1.01249149,52.07881020,163]);
+		append(data,[-1.01181862,52.07863833,163]);
+		append(data,[-1.01120767,52.07805548,164]);
+		append(data,[-1.01065142,52.07659875,164]);
+		append(data,[-1.01041871,52.07431813,164]);
+		append(data,[-1.01017470,52.07383257,164]);
+		append(data,[-1.00977019,52.07328699,164]);
+		append(data,[-1.01004582,52.07263686,163]);
+		append(data,[-1.01034752,52.07202949,162]);
+		append(data,[-1.00999237,52.07143110,162]);
+		append(data,[-1.00956368,52.07078690,162]);
+		append(data,[-1.01005055,52.07027659,162]);
+		append(data,[-1.01110659,52.07005923,162]);
+		append(data,[-1.01663927,52.06401235,157]);
+		append(data,[-1.01738606,52.06350568,157]);
+		append(data,[-1.01827673,52.06337897,157]);
+		append(data,[-1.01912044,52.06369617,157]);
+		append(data,[-1.02020509,52.06486776,157]);
+		append(data,[-1.02178898,52.06596449,157]);
+		append(data,[-1.02221230,52.06630723,156]);
+		append(data,[-1.02255564,52.06642612,156]);
+		append(data,[-1.02292410,52.06626620,156]);
+		append(data,[-1.02329497,52.06608112,156]);
+		append(data,[-1.02381006,52.06625543,156]);
+		append(data,[-1.02462839,52.06715538,155]);
+
+		track.setData(data);
+	}
+###############################
 	else{
 		track = nil;
 	}
