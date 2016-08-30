@@ -1,20 +1,22 @@
 Motorcycle's Scenery for
 
-Isle of Man - TT (EGNS)
-Isle of Man - Southern100 (EGNS)
+Argentina - Termas de Rio Hondo (SANR)
+Czech - Terlicko (LKMT)
+Czech - Automotodrom Brno (LKCM)
+Estland - Piritat Koose Klostrimetsa (EETN)
+Germany - Bopfingen (EDPA)
+Great-Britain - Silverstone Circuit (EGBT)
+Hong Kong - Macau (VMMC)
 Ireland - North-West 200 (EGAE)
 Ireland - UlsterGP (EGAA)
-Estland - Piritat Koose Klostrimetsa (EETN)
-Hong Kong - Macau (VMMC)
+Isle of Man - TT (EGNS)
+Isle of Man - Southern100 (EGNS)
 New Zealand - Hamptons Down (NZME)
 New Zealand - Manfeild (NZPM)
 New Zealand - Wanganui (NZWU)
-Czech - Terlicko (LKMT)
-Germany - Bopfingen (EDPA)
 Qatar - LosailCircuit (OTBK)
-Argentina - Termas de Rio Hondo (SANR)
-USA,Texas - Circuit of the Americas (02XS)
 Spain - Circuito de Jerez (LEJR)
+USA,Texas - Circuit of the Americas (02XS)
 
 Please note for installation:
 
@@ -31,7 +33,8 @@ users/you/Library/Application Support/FlightGear
 
 
 IMPORTAND:: this is NOT the /Nasal folder
-in the fgdata or data folder
+in the fgdata or data folder. It is the /Nasal folder in
+your personal folder.
 
 
 by Marc Kraus
@@ -41,6 +44,6 @@ http://www.marc-kraus.de/fg/
 This model is now released under the terms of the GPLv2 with permission by the
 author
 
-==============================
-ENJOY THE ROADRACE :D
-==============================
+=================================================
+ENJOY IT :D
+=================================================
