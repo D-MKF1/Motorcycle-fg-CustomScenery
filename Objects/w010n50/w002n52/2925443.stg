@@ -1,2 +1,35 @@
 # w010n50/w002n52/2925443.stg
 OBJECT_SHARED Models/RaceCourses/Silverstone/course.ac -1.02039311 52.07088235 155.8 89.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/jwbride.ac -1.01356909 52.06733438 155.7783 61.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/rbridge.ac -1.01562687 52.07516364 155.8365 316.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/f1building.ac -1.02177075 52.06912754 151.4 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/banner.ac -1.01027870 52.07515542 164.5922 92.0 0.0 -0.0
+
+# grandstands
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02178810 52.07029202 157.7995 56.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02136904 52.07091670 158.4887 78.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02119690 52.07160375 158.9880 84.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02109149 52.06408860 157.1248 136.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standswr.ac -1.02215571 52.06466435 156.6973 137.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standswr.ac -1.02339788 52.06538505 155 136.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02441866 52.06600705 155.0775 133.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02514843 52.06655765 155.2056 124.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02537411 52.06707085 155.2820 96.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02535320 52.06744928 155.2800 68.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02249893 52.06976309 157.4126 44.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standswr.ac -1.02213322 52.07542356 159.2987 132.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02251470 52.07640357 159.8117 64.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.02201855 52.07703394 160.3395 64.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standswr.ac -1.02110776 52.07810864 158 52.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standswr.ac -1.02003600 52.07880645 156 40.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/stands.ac -1.01793631 52.07923868 161.0477 4.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/stands.ac -1.01625524 52.07931270 161.0639 4.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01413075 52.07917778 162.0721 358.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01294645 52.07915054 162.3593 357.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01166581 52.07911961 162.4952 357.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01047471 52.07898583 162.5607 332.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01021604 52.07836900 163.0715 284.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01009337 52.07762481 163.5979 268.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/standssmall.ac -1.01013636 52.07688459 163.7641 268.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/stands.ac -1.00883717 52.07219827 162.4488 272.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/stands.ac -1.00867053 52.07115868 161.6864 279.1 0.0 -0.0
