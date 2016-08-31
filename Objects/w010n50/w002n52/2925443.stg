@@ -1,8 +1,10 @@
 # w010n50/w002n52/2925443.stg
 OBJECT_SHARED Models/RaceCourses/Silverstone/course.ac -1.02039311 52.07088235 155.8 89.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/fences.ac -1.02039311 52.07088235 155.8 89.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Silverstone/jwbride.ac -1.01356909 52.06733438 155.7783 61.7 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Silverstone/rbridge.ac -1.01562687 52.07516364 155.8365 316.8 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/Silverstone/f1building.ac -1.02177075 52.06912754 151.4 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/f1building.ac -1.02177075 52.06912754 152.5 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Silverstone/pitmoto.ac -1.01684831 52.07826743 161.9004 94.5 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/Silverstone/banner.ac -1.01027870 52.07515542 164.5922 92.0 0.0 -0.0
 
 # grandstands
