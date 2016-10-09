@@ -98,6 +98,8 @@ var show_mp_times = func{
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-NSF/Models/Honda-NSF100.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Panigale-R.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Desmo-GP16.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Suzuki-GSX-RR/Models/Suzuki-GSX-RR.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/KTM-RC16/Models/KTM-RC16.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/LCR/Models/LCR-F2.xml")
 			and mpOther[v].getNode("id").getValue() >= 0) {
 
