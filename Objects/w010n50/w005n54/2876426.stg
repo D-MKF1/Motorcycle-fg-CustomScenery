@@ -1,6 +1,7 @@
-OBJECT_SHARED Models/Airport/ndb.xml -4.491667 54.141111 141 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.431024 54.174464 126.05 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.405618 54.198483 119.8 180
+# original in terrasync
+OBJECT_SHARED Models/Airport/ndb.ac -4.491667 54.141111 141 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.431024 54.174464 126.05 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.405618 54.198483 119.8 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.4910174 54.1412566 129.66 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.3978012 54.2240684 42.88 180
 OBJECT_SHARED Models/Maritime/Civilian/Tyne_Lifeboat.xml -4.46816 54.14654 3.9 200
@@ -9,56 +10,60 @@ OBJECT_STATIC Douglas_Head_Lighthouse.xml -4.4650263 54.14332694 -0.01 50.9
 OBJECT_STATIC Douglas_Head_Lighthouse_Accom.ac -4.4650263 54.14332694 -0.01 50.9
 OBJECT_STATIC Douglas_Head_Fog_Horn_and_Walls.ac -4.4650263 54.14332694 -0.01 50.9
 OBJECT_STATIC Laxey_Wheel.xml -4.40409447 54.2361963 87.96 164.4
-OBJECT_SHARED Models/RaceCourses/TT/ped-overpass.xml -4.48214041 54.16598099 76.3543 38.8
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt.xml -4.47379406 54.16949251 86.7550 30.8
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.47806328 54.16808185 83.9 126.4 0.0 0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt.xml -4.48471701 54.16488876 68.7831 226.8 0.0 -1.8
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.52147171 54.16846883 38.4329 64.0 -1.8 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47548098 54.17024792 94.1128 352.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47674721 54.16908961 88.3365 292.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.53080110 54.17073117 36.3689 260.0 -1.8 -0.6
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.54727602 54.17340675 63.1843 160.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.53166792 54.17118962 40.9680 344.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.55410557 54.17708633 52.6309 40.0 -1.8 --1.8
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.56563995 54.18344339 49.6847 328.0 2.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.56504430 54.18345194 50.3276 44.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.56524776 54.18354978 50.5883 47.2 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.61380005 54.19730805 53.8062 84.4 0.0 -0.6
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.61577109 54.19754429 52.9774 73.2 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/road-buildings.xml -4.62533679 54.20074006 48.5499 140.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.62336282 54.20025630 49.3969 236.0 1.8 -1.2
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.54145752 54.17199666 63.6334 248.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/hedgerow.ac -4.54703338 54.17336765 62.9040 60.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/road-buildings.xml -4.54470098 54.17278649 61.8718 352.0 1.2 --1.2
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.55303347 54.17639942 57.4005 316.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.55262053 54.17570761 57.1564 140.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.56504453 54.18318526 49.1643 320.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62004678 54.19872225 52.1106 324.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62706897 54.20171744 49.0600 340.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62727004 54.20178095 49.5142 332.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.62775373 54.20194882 48.8471 240.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.46960347 54.23045872 372.2095 328.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.46973465 54.23004314 371.3318 96.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46578457 54.20762267 240.9273 20.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.46581213 54.20716523 235.6593 108.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.46586176 54.20728948 237.1297 14.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.47872505 54.19674355 158.4709 316.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.47791304 54.19561790 158.8633 0.0 3.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.47427038 54.18826090 116.8880 192.0 1.2 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47558228 54.18332908 131.3778 4.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47554437 54.18319095 132.2969 14.8 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47300278 54.18061894 135.6627 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47141345 54.18054973 139.4631 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47586692 54.18119918 130.5828 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47185001 54.18261431 150.3711 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46687709 54.17896660 130.9807 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46835591 54.18006990 135.0211 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46687115 54.18030911 136.6967 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47096989 54.17953023 130.1949 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47186671 54.17822871 119.3925 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47048061 54.17959702 131.1365 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47043739 54.17977840 132.9088 220.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47011705 54.17952209 130.6770 324.0 0.0 -0.0 
+OBJECT_STATIC Douglas_Lifeboat_Station.ac -4.46961515 54.1448605 10.22 227
+
+
+
+# OBJECT_SHARED Models/RaceCourses/TT/ped-overpass.xml -4.48214041 54.16598099 76.3543 38.8
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt.xml -4.47379406 54.16949251 86.7550 30.8
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.47806328 54.16808185 83.9 126.4 0.0 0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt.xml -4.48471701 54.16488876 68.7831 226.8 0.0 -1.8
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.52147171 54.16846883 38.4329 64.0 -1.8 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47548098 54.17024792 94.1128 352.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47674721 54.16908961 88.3365 292.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.53080110 54.17073117 36.3689 260.0 -1.8 -0.6
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.54727602 54.17340675 63.1843 160.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.53166792 54.17118962 40.9680 344.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.55410557 54.17708633 52.6309 40.0 -1.8 --1.8
+# OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.56563995 54.18344339 49.6847 328.0 2.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.56504430 54.18345194 50.3276 44.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.56524776 54.18354978 50.5883 47.2 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.61380005 54.19730805 53.8062 84.4 0.0 -0.6
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.61577109 54.19754429 52.9774 73.2 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/road-buildings.xml -4.62533679 54.20074006 48.5499 140.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.62336282 54.20025630 49.3969 236.0 1.8 -1.2
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.54145752 54.17199666 63.6334 248.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/hedgerow.ac -4.54703338 54.17336765 62.9040 60.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/road-buildings.xml -4.54470098 54.17278649 61.8718 352.0 1.2 --1.2
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.55303347 54.17639942 57.4005 316.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.55262053 54.17570761 57.1564 140.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.56504453 54.18318526 49.1643 320.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62004678 54.19872225 52.1106 324.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62706897 54.20171744 49.0600 340.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62727004 54.20178095 49.5142 332.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.62775373 54.20194882 48.8471 240.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.46960347 54.23045872 372.2095 328.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.46973465 54.23004314 371.3318 96.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46578457 54.20762267 240.9273 20.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.46581213 54.20716523 235.6593 108.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.46586176 54.20728948 237.1297 14.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.47872505 54.19674355 158.4709 316.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.47791304 54.19561790 158.8633 0.0 3.6 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.47427038 54.18826090 116.8880 192.0 1.2 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47558228 54.18332908 131.3778 4.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47554437 54.18319095 132.2969 14.8 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47300278 54.18061894 135.6627 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47141345 54.18054973 139.4631 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47586692 54.18119918 130.5828 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47185001 54.18261431 150.3711 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46687709 54.17896660 130.9807 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46835591 54.18006990 135.0211 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.46687115 54.18030911 136.6967 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47096989 54.17953023 130.1949 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.47186671 54.17822871 119.3925 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47048061 54.17959702 131.1365 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47043739 54.17977840 132.9088 220.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47011705 54.17952209 130.6770 324.0 0.0 -0.0
 
 # Bungalow to Brandywell
 OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.46363759 54.24995052 413.4170 337.0 -1.2 -0.0

@@ -1,14 +1,17 @@
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.718571 54.137171 418.8 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.708534 54.213933 130.96 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.669297 54.149485 471.21 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.56498 54.209533 471.78 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.536367 54.159309 138.5 180
+# original in terrasync
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.718571 54.137171 418.8 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.708534 54.213933 130.96 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.669297 54.149485 471.21 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.56498 54.209533 471.78 180
+OBJECT_SHARED Models/Misc/trigpoint.ac -4.536367 54.159309 138.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.6167059 54.1673615 103.65 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.6163889 54.2161111 114.5 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.615176 54.2159482 229.93 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.5381635 54.1609513 66.61 180
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62936939 54.20359062 59.4871 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62897034 54.20369359 60.3846 0.0 0.0 -0.0
+
+
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62936939 54.20359062 59.4871 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62897034 54.20369359 60.3846 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.61344539 54.23580345 171.4654 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.59962822 54.24455185 171.7053 208.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.58856688 54.28157455 42.4188 0.0 0.0 -0.0
@@ -31,7 +34,7 @@ OBJECT_SHARED Models/RaceCourses/TT/guardedge-strt-trees.xml -4.60984682 54.2386
 OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.60611919 54.24178195 181.8775 316.0 -0.6 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/guardedge-right.xml -4.59851088 54.24516334 163.6640 292.0 0.0 -0.0
 
-# Roundabout Quater Bridge 
+# Roundabout Quater Bridge
 OBJECT_SHARED Models/RaceCourses/TT/Road/quater_bridge.ac -4.50130814 54.15566782 17.7842 32.0 0.1 --0.1
 OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.50008782 54.15655829 25.6565 323.1 4.1 --0.6
 OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.50063294 54.15613561 21.8170 322.8 3.5 -0.0
@@ -108,192 +111,212 @@ OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.54902905 54.173
 OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.55024441 54.17440133 61.4962 45.4 -0.4 -0.0
 
 # Greeba Castle
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade4_bend_hedge.ac -4.58855627 54.19269455 64.9105 266.8 1.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58746805 54.19248367 65.4446 249.7 -0.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_half_bend.ac -4.58933321 54.19263444 63.7115 98.0 -1.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59046190 54.19265210 62.3043 81.2 -1.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59188093 54.19291412 61.4969 64.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59322797 54.19328816 61.4982 251.6 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59471065 54.19348561 62.0731 76.0 0.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59614556 54.19374704 62.5209 256.0 0.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.59706848 54.19382519 62.0544 272.0 1.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.59763358 54.19380673 60.1906 273.9 3.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.59868091 54.19383546 57.2464 76.6 -2.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.59980355 54.19411320 56.1435 64.4 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60116605 54.19450438 55.6354 60.0 -0.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60207653 54.19489506 55.1280 48.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60286760 54.19532110 56.0510 230.4 -1.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60398998 54.19583194 57.9470 47.6 1.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60479000 54.19630722 59.6868 45.1 1.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.60518568 54.19653043 60.2597 48.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.60594119 54.19681962 59.3104 247.3 1.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.60739637 54.19697467 57.5346 84.0 -1.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.60890130 54.19706829 56.3402 84.0 -0.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61037383 54.19717580 55.7630 81.9 -0.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61150167 54.19727751 55.7331 80.0 0.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61222352 54.19734208 55.9190 82.6 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61297489 54.19738981 55.5561 84.9 -0.8 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61408068 54.19744370 54.6575 81.6 -0.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61554936 54.19765769 53.8483 74.3 -0.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61663234 54.19784068 53.6131 73.2 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61734805 54.19797666 53.4426 70.9 -0.4 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61782597 54.19807472 53.2848 70.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.61859137 54.19827561 52.5320 62.0 -0.9 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61983828 54.19878141 52.0652 52.0 0.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.58641995 54.19225933 65.3803 70.9 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.58539160 54.19200780 64.0198 237.6 -1.6 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58429254 54.19143154 60.0857 47.3 3.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58316648 54.19084474 55.1119 49.6 2.8 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.58261227 54.19051776 53.2995 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.58253059 54.19058236 53.6673 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/Sion_Generic_Tree.ac -4.58969566 54.19255155 59.7290 308.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.58968013 54.19265415 62.4956 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.60050139 54.19426139 55.2286 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.60043259 54.19433606 56.0224 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61112853 54.19719583 55.5060 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61109305 54.19727948 55.5298 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61791756 54.19804942 52.9200 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61784104 54.19812083 53.6007 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.58641995 54.19225933 65.3803 70.9 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.58539160 54.19200780 64.0198 237.6 -1.6 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58429254 54.19143154 60.0857 47.3 3.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58316648 54.19084474 55.1119 49.6 2.8 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade4_bend_hedge.ac -4.58855627 54.19269455 64.9105 266.8 1.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58746805 54.19248367 65.4446 249.7 -0.1 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_half_bend.ac -4.58933321 54.19263444 63.7115 98.0 -1.3 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59046190 54.19265210 62.3043 81.2 -1.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59188093 54.19291412 61.4969 64.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59322797 54.19328816 61.4982 251.6 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59471065 54.19348561 62.0731 76.0 0.6 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59614556 54.19374704 62.5209 256.0 0.1 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.59706848 54.19382519 62.0544 272.0 1.6 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.59763358 54.19380673 60.1906 273.9 3.6 -0.0#
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.59868091 54.19383546 57.2464 76.6 -2.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.59980355 54.19411320 56.1435 64.4 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60116605 54.19450438 55.6354 60.0 -0.6 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.58261227 54.19051776 53.2995 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.58253059 54.19058236 53.6673 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/Sion_Generic_Tree.ac -4.58969566 54.19255155 59.7290 308.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.58968013 54.19265415 62.4956 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.60050139 54.19426139 55.2286 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.60043259 54.19433606 56.0224 0.0 0.0 -0.0
+
+
+
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60207653 54.19489506 55.1280 48.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60286760 54.19532110 56.0510 230.4 -1.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60398998 54.19583194 57.9470 47.6 1.3 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60479000 54.19630722 59.6868 45.1 1.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.60518568 54.19653043 60.2597 48.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.60594119 54.19681962 59.3104 247.3 1.1 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.60739637 54.19697467 57.5346 84.0 -1.0 -0.0
+
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.60890130 54.19706829 56.3402 84.0 -0.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61037383 54.19717580 55.7630 81.9 -0.3 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61150167 54.19727751 55.7331 80.0 0.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61222352 54.19734208 55.9190 82.6 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61297489 54.19738981 55.5561 84.9 -0.8 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61408068 54.19744370 54.6575 81.6 -0.6 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61554936 54.19765769 53.8483 74.3 -0.3 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61663234 54.19784068 53.6131 73.2 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61734805 54.19797666 53.4426 70.9 -0.4 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61782597 54.19807472 53.2848 70.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.61859137 54.19827561 52.5320 62.0 -0.9 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61983828 54.19878141 52.0652 52.0 0.3 -0.0
+
+
+
+# OBJECT_SHARED Models/Trees/buk1.xml -4.61112853 54.19719583 55.5060 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.61109305 54.19727948 55.5298 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.61791756 54.19804942 52.9200 0.0 0.0 -0.0
+# OBJECT_SHARED Models/Trees/buk1.xml -4.61784104 54.19812083 53.6007 0.0 0.0 -0.0
+
+# new Road Ballacrain to Barragarrow
+OBJECT_SHARED Models/RaceCourses/TT/Road/partGlenHelen.ac -4.62867820 54.20395581 0.0 90.0 0.0 -0.0
+
+# Sarahs Cottage
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.63285265 54.21852591 88.6670 28.0 0.0 -0.0
 
 # Ballacrain
-OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62938026 54.20293186 54.1044 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62878012 54.20269191 51.6868 339.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/ballacraine.ac -4.62923154 54.20264202 51.0623 91.3 -0.8 --3.5
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.62917241 54.20382623 60.5720 1.1 3.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62916207 54.20319008 56.1884 359.5 4.6 --0.4
-OBJECT_SHARED Models/Trees/buk1.xml -4.62909175 54.20295889 53.7637 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62924276 54.20296026 53.5348 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62769776 54.20216574 49.7705 55.8 0.5 --3.6
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62691208 54.20185302 48.9921 56.0 1.5 --3.6
-OBJECT_SHARED Models/Trees/buk1.xml -4.62678825 54.20175234 47.4125 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62670515 54.20182041 48.1060 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62927938 54.20287411 53.7418 320.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62921158 54.20269098 52.5699 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62942554 54.20279302 52.7258 0.0 0.0 -0.0
-
-# Road Ballacrain to Glen Helen
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.62920641 54.20448879 64.3227 2.9 2.6 --1.5
-OBJECT_SHARED Models/Trees/buk1.xml -4.62929437 54.20464608 65.0613 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62914712 54.20464933 64.9361 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.62932469 54.20509469 67.4103 191.3 -2.5 -1.6
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62959213 54.20563202 70.2839 22.6 3.4 --2.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62980571 54.20592060 70.4145 24.0 -1.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.63009760 54.20629706 69.6764 24.9 -0.8 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.63047969 54.20688554 67.6068 16.0 -2.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.63068493 54.20773824 65.8729 0.2 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.63059579 54.20859496 66.7062 356.0 0.9 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63047560 54.20947555 69.0115 355.0 1.7 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63032028 54.21036059 69.8777 353.2 -0.7 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63018851 54.21120675 69.2515 180.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63043561 54.21207942 69.7123 198.8 -0.5 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63104530 54.21283223 71.7386 212.0 -2.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63193407 54.21355417 74.7351 32.0 1.5 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63260575 54.21434604 79.5479 24.7 4.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.63309959 54.21517929 84.5720 5.8 1.7 -0.8
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63291874 54.21582632 85.7978 331.3 -0.8 -0.8
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.63261338 54.21628922 85.1361 168.0 0.7 --1.3
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63302165 54.21569699 85.9296 340.0 0.0 -1.2
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63257579 54.21681081 84.8383 7.8 2.2 -0.8
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.63267113 54.21710032 86.7569 12.0 3.7 -1.3
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63278257 54.21738223 88.8858 16.0 4.0 -1.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.63292489 54.21788024 90.4529 356.0 1.0 -1.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.63244402 54.21850130 91.0906 316.0 -0.1 -1.7
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63111155 54.21893924 92.0384 120.0 -1.7 --1.4
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.62995950 54.21944090 96.8726 309.7 4.0 -1.0
-#OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.62930804 54.21975965 101.1250 310.7 6.0 -0.8
-#OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.62862448 54.22006821 102.9232 303.3 1.1 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62866340 54.20268117 54.2154 332.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62892941 54.20329458 58.3232 4.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62931891 54.20314535 58.1540 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62935666 54.20292590 56.9727 348.0 0.0 -0.0
 
 
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62934597 54.21974490 100.6086 312.0 4.3 -0.3
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62812371 54.22023911 103.4513 297.3 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62844807 54.22013509 103.3401 300.0 0.5 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62876525 54.22001921 102.8340 304.0 1.9 -0.0
-#OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62906733 54.21988854 102.0343 309.1 1.8 -0.0
-#OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62906964 54.21989021 101.9841 308.0 2.1 -0.0
 
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62907212 54.21988503 101.9542 309.5 2.2 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.62728404 54.22048801 101.4086 120.0 2.4 -0.0
-
-OBJECT_SHARED Models/Trees/lime_large.xml -4.62955008 54.21970883 99.1794 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/lime_large.xml -4.62945323 54.21961618 99.8381 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/lime_large.xml -4.62980676 54.21958727 96.7885 288.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62946603 54.21961216 95.2891 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62943961 54.21961873 95.9251 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62955089 54.21969854 98.9041 4.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62956045 54.21969966 95.7215 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62982393 54.21958331 94.4226 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/lime_large.xml -4.63064334 54.21927113 83.1084 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.62612456 54.22104364 99.9714 143.0 -0.6 --0.6
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.62529755 54.22178137 100.5321 315.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62436108 54.22214028 101.9230 296.0 3.1 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62368653 54.22231524 103.4277 292.0 0.5 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62264041 54.22252957 104.7257 288.0 1.2 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62133794 54.22277650 106.5113 288.0 1.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.61957228 54.22317380 107.7138 124.4 -0.3 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62043246 54.22294729 107.4052 288.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62468146 54.22199958 99.5037 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.62474663 54.22207892 100.1998 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61875148 54.22363492 108.0031 316.6 0.0 --0.8
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.61805976 54.22413126 108.0955 151.0 -0.3 --0.6
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend_hedge.ac -4.61719780 54.22621127 122.2709 193.1 -7.7 -4.1
-OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61759319 54.22497373 110.7906 345.2 2.8 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61730879 54.22560672 114.0649 345.5 2.2 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.61771441 54.22667190 129.0545 226.0 -6.9 -7.1
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.61796497 54.22680116 131.4920 50.8 5.9 --5.6
-OBJECT_SHARED Models/Trees/billboard-tree.xml -4.61737524 54.22577176 104.3186 0.0 0.0 -14.9
-OBJECT_SHARED Models/Trees/Sion_Generic_Tree.ac -4.61717762 54.22571625 111.8913 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61806988 54.22690850 133.1692 0.0 0.0 -0.0
-OBJECT_SHARED Models/Trees/buk1.xml -4.61816712 54.22683177 132.5447 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61819668 54.22691301 133.1505 52.0 3.6 --2.5
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61838508 54.22700006 133.7896 52.0 1.9 --1.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61856802 54.22709066 133.9782 48.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61892434 54.22728401 132.8136 47.0 -2.7 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.61960443 54.22776604 131.8567 24.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.61963528 54.22864798 131.8706 344.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61916119 54.22930758 133.5287 159.9 -1.9 -0.0
-
-# Other Road signs
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/QuaterBridge.xml -4.50197079 54.15599818 18.4312 159.7 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BraddanBridge.xml -4.50328055 54.15852676 22.1627 104.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs//1/UnionMills.xml -4.51621252 54.16689398 34.7489 144.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Ballagarey.xml -4.54390133 54.17278057 69.1338 148.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaCastle.xml -4.58238929 54.19043279 53.2228 164.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Appledene.xml -4.58718316 54.19238052 67.6772 164.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaBridge.xml -4.60406482 54.19582443 59.8197 144.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BallaCraine.xml -4.62525973 54.20116409 46.2699 144.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BallaSpur.xml -4.62925097 54.20393024 61.4425 76.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BalligBridge.xml -4.63056888 54.20694195 69.2443 97.7 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/LaurelBank.xml -4.63129548 54.21297739 72.9228 144.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/9thMilestone.xml -4.63315066 54.21554371 86.6265 69.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/SarahsCottage.xml -4.61980269 54.22819005 132.7014 96.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenHelen1.xml -4.62826110 54.22024433 103.6033 32.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenHelen2.xml -4.62385410 54.22231653 105.4619 28.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/11thMilestone.xml -4.60294437 54.24341275 172.5334 48.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Handleys.xml -4.59026190 54.24937367 156.6531 56.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Crosby.xml -4.55326711 54.17629255 55.8864 142.5 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenWyllies.xml -4.61862916 54.23016841 137.8788 48.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/Signs/1/CronkYVoddy.xml -4.61259276 54.23636022 172.4025 64.0 0.0 -0.0
-
-#marshalls
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50111617 54.15582523 19.5710 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50504213 54.16135376 24.0138 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50617075 54.16136072 25.3408 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.51224289 54.16530126 32.7488 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.51914182 54.16805044 40.6526 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.53630342 54.17149856 48.2731 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.54816508 54.17364726 63.2859 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.58239796 54.19051830 53.8900 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.58946101 54.19256779 64.1799 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.60034804 54.19430710 57.0481 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61776213 54.19810030 54.1577 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62666590 54.20179915 49.4987 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62923496 54.20271779 52.6731 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62915075 54.20456431 65.6269 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.63041422 54.20946270 69.8501 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62953508 54.21959869 99.9509 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62479594 54.22205967 101.1605 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61723239 54.22563274 115.1431 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61573093 54.23285991 160.1791 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61470644 54.23433533 167.3144 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/marshall.xml -4.60665778 54.24141262 182.4196 0.0 0.0 -0.0
+#  OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62938026 54.20293186 54.1044 0.0 0.0 -0.0
+#  OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62878012 54.20269191 51.6868 339.0 0.0 -0.0
+#  OBJECT_SHARED Models/RaceCourses/TT/Road/ballacraine.ac -4.62923154 54.20264202 51.0623 91.3 -0.8 --3.5
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.62917241 54.20382623 60.5720 1.1 3.1 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62916207 54.20319008 56.1884 359.5 4.6 --0.4
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62909175 54.20295889 53.7637 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62924276 54.20296026 53.5348 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62769776 54.20216574 49.7705 55.8 0.5 --3.6
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62691208 54.20185302 48.9921 56.0 1.5 --3.6
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62678825 54.20175234 47.4125 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62670515 54.20182041 48.1060 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62927938 54.20287411 53.7418 320.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62921158 54.20269098 52.5699 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.62942554 54.20279302 52.7258 0.0 0.0 -0.0
+#
+# # Road Ballacrain to Glen Helen
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.62920641 54.20448879 64.3227 2.9 2.6 --1.5
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62929437 54.20464608 65.0613 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62914712 54.20464933 64.9361 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.62932469 54.20509469 67.4103 191.3 -2.5 -1.6
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62959213 54.20563202 70.2839 22.6 3.4 --2.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62980571 54.20592060 70.4145 24.0 -1.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.63009760 54.20629706 69.6764 24.9 -0.8 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.63047969 54.20688554 67.6068 16.0 -2.1 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.63068493 54.20773824 65.8729 0.2 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.63059579 54.20859496 66.7062 356.0 0.9 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63047560 54.20947555 69.0115 355.0 1.7 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63032028 54.21036059 69.8777 353.2 -0.7 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63018851 54.21120675 69.2515 180.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63043561 54.21207942 69.7123 198.8 -0.5 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63104530 54.21283223 71.7386 212.0 -2.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63193407 54.21355417 74.7351 32.0 1.5 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.63260575 54.21434604 79.5479 24.7 4.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.63309959 54.21517929 84.5720 5.8 1.7 -0.8
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63291874 54.21582632 85.7978 331.3 -0.8 -0.8
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.63261338 54.21628922 85.1361 168.0 0.7 --1.3
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63302165 54.21569699 85.9296 340.0 0.0 -1.2
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63257579 54.21681081 84.8383 7.8 2.2 -0.8
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.63267113 54.21710032 86.7569 12.0 3.7 -1.3
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.63278257 54.21738223 88.8858 16.0 4.0 -1.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.63292489 54.21788024 90.4529 356.0 1.0 -1.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.63244402 54.21850130 91.0906 316.0 -0.1 -1.7
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.63111155 54.21893924 92.0384 120.0 -1.7 --1.4
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.62995950 54.21944090 96.8726 309.7 4.0 -1.0
+# # #OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.62930804 54.21975965 101.1250 310.7 6.0 -0.8
+# # #OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.62862448 54.22006821 102.9232 303.3 1.1 -0.0
+# #
+# #
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62934597 54.21974490 100.6086 312.0 4.3 -0.3
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62812371 54.22023911 103.4513 297.3 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62844807 54.22013509 103.3401 300.0 0.5 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62876525 54.22001921 102.8340 304.0 1.9 -0.0
+# # #OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62906733 54.21988854 102.0343 309.1 1.8 -0.0
+# # #OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62906964 54.21989021 101.9841 308.0 2.1 -0.0
+# #
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62907212 54.21988503 101.9542 309.5 2.2 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.62728404 54.22048801 101.4086 120.0 2.4 -0.0
+# #
+# # OBJECT_SHARED Models/Trees/lime_large.xml -4.62955008 54.21970883 99.1794 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/lime_large.xml -4.62945323 54.21961618 99.8381 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/lime_large.xml -4.62980676 54.21958727 96.7885 288.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62946603 54.21961216 95.2891 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62943961 54.21961873 95.9251 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62955089 54.21969854 98.9041 4.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62956045 54.21969966 95.7215 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62982393 54.21958331 94.4226 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/lime_large.xml -4.63064334 54.21927113 83.1084 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.62612456 54.22104364 99.9714 143.0 -0.6 --0.6
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.62529755 54.22178137 100.5321 315.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62436108 54.22214028 101.9230 296.0 3.1 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.62368653 54.22231524 103.4277 292.0 0.5 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62264041 54.22252957 104.7257 288.0 1.2 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.62133794 54.22277650 106.5113 288.0 1.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.61957228 54.22317380 107.7138 124.4 -0.3 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.62043246 54.22294729 107.4052 288.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62468146 54.22199958 99.5037 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.62474663 54.22207892 100.1998 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61875148 54.22363492 108.0031 316.6 0.0 --0.8
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.61805976 54.22413126 108.0955 151.0 -0.3 --0.6
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend_hedge.ac -4.61719780 54.22621127 122.2709 193.1 -7.7 -4.1
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61759319 54.22497373 110.7906 345.2 2.8 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61730879 54.22560672 114.0649 345.5 2.2 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.61771441 54.22667190 129.0545 226.0 -6.9 -7.1
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.61796497 54.22680116 131.4920 50.8 5.9 --5.6
+# # OBJECT_SHARED Models/Trees/billboard-tree.xml -4.61737524 54.22577176 104.3186 0.0 0.0 -14.9
+# # OBJECT_SHARED Models/Trees/Sion_Generic_Tree.ac -4.61717762 54.22571625 111.8913 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.61806988 54.22690850 133.1692 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/Trees/buk1.xml -4.61816712 54.22683177 132.5447 0.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61819668 54.22691301 133.1505 52.0 3.6 --2.5
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61838508 54.22700006 133.7896 52.0 1.9 --1.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61856802 54.22709066 133.9782 48.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61892434 54.22728401 132.8136 47.0 -2.7 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_bend.ac -4.61960443 54.22776604 131.8567 24.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.61963528 54.22864798 131.8706 344.0 0.0 -0.0
+# # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61916119 54.22930758 133.5287 159.9 -1.9 -0.0
+#
+# # Other Road signs
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/QuaterBridge.xml -4.50197079 54.15599818 18.4312 159.7 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BraddanBridge.xml -4.50328055 54.15852676 22.1627 104.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs//1/UnionMills.xml -4.51621252 54.16689398 34.7489 144.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Ballagarey.xml -4.54390133 54.17278057 69.1338 148.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaCastle.xml -4.58238929 54.19043279 53.2228 164.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Appledene.xml -4.58718316 54.19238052 67.6772 164.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaBridge.xml -4.60406482 54.19582443 59.8197 144.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BallaCraine.xml -4.62525973 54.20116409 46.2699 144.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BallaSpur.xml -4.62925097 54.20393024 61.4425 76.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BalligBridge.xml -4.63056888 54.20694195 69.2443 97.7 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/LaurelBank.xml -4.63129548 54.21297739 72.9228 144.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/9thMilestone.xml -4.63315066 54.21554371 86.6265 69.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/SarahsCottage.xml -4.61980269 54.22819005 132.7014 96.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenHelen1.xml -4.62826110 54.22024433 103.6033 32.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenHelen2.xml -4.62385410 54.22231653 105.4619 28.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/11thMilestone.xml -4.60294437 54.24341275 172.5334 48.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Handleys.xml -4.59026190 54.24937367 156.6531 56.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Crosby.xml -4.55326711 54.17629255 55.8864 142.5 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GlenWyllies.xml -4.61862916 54.23016841 137.8788 48.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/CronkYVoddy.xml -4.61259276 54.23636022 172.4025 64.0 0.0 -0.0
+#
+# #marshalls
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50111617 54.15582523 19.5710 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50504213 54.16135376 24.0138 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.50617075 54.16136072 25.3408 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.51224289 54.16530126 32.7488 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.51914182 54.16805044 40.6526 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.53630342 54.17149856 48.2731 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.54816508 54.17364726 63.2859 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.58239796 54.19051830 53.8900 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.58946101 54.19256779 64.1799 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.60034804 54.19430710 57.0481 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61776213 54.19810030 54.1577 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62666590 54.20179915 49.4987 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62923496 54.20271779 52.6731 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62915075 54.20456431 65.6269 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.63041422 54.20946270 69.8501 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62953508 54.21959869 99.9509 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.62479594 54.22205967 101.1605 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61723239 54.22563274 115.1431 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61573093 54.23285991 160.1791 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.61470644 54.23433533 167.3144 0.0 0.0 -0.0
+# OBJECT_SHARED Models/RaceCourses/marshall.xml -4.60665778 54.24141262 182.4196 0.0 0.0 -0.0
 
