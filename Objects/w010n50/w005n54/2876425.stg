@@ -25,7 +25,7 @@ OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58919276 54.28148288 38.737
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58814033 54.28236070 42.3277 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.52439649 54.17030219 30.1976 260.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.54584662 54.17349558 62.4704 336.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.60267175 54.19717129 77.2813 312.0 0.0 -0.0
+#OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.60267175 54.19717129 77.2813 312.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.63456722 54.21957147 100.5979 44.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62414848 54.23020607 180.2766 0.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62418705 54.23041225 180.5961 0.0 0.0 -0.0
@@ -110,63 +110,219 @@ OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.54761613 54.17356884 62.4191
 OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.54902905 54.17389397 62.0920 64.0 -0.3 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.55024441 54.17440133 61.4962 45.4 -0.4 -0.0
 
-# Greeba Castle
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.58641995 54.19225933 65.3803 70.9 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.58539160 54.19200780 64.0198 237.6 -1.6 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58429254 54.19143154 60.0857 47.3 3.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58316648 54.19084474 55.1119 49.6 2.8 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade4_bend_hedge.ac -4.58855627 54.19269455 64.9105 266.8 1.4 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.58746805 54.19248367 65.4446 249.7 -0.1 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade3_half_bend.ac -4.58933321 54.19263444 63.7115 98.0 -1.3 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59046190 54.19265210 62.3043 81.2 -1.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59188093 54.19291412 61.4969 64.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59322797 54.19328816 61.4982 251.6 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59471065 54.19348561 62.0731 76.0 0.6 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.59614556 54.19374704 62.5209 256.0 0.1 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.59706848 54.19382519 62.0544 272.0 1.6 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.59763358 54.19380673 60.1906 273.9 3.6 -0.0#
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.59868091 54.19383546 57.2464 76.6 -2.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.59980355 54.19411320 56.1435 64.4 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60116605 54.19450438 55.6354 60.0 -0.6 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.58261227 54.19051776 53.2995 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.58253059 54.19058236 53.6673 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/Sion_Generic_Tree.ac -4.58969566 54.19255155 59.7290 308.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.58968013 54.19265415 62.4956 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.60050139 54.19426139 55.2286 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.60043259 54.19433606 56.0224 0.0 0.0 -0.0
-
-
-
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60207653 54.19489506 55.1280 48.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60286760 54.19532110 56.0510 230.4 -1.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.60398998 54.19583194 57.9470 47.6 1.3 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.60479000 54.19630722 59.6868 45.1 1.4 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater_hedge.ac -4.60518568 54.19653043 60.2597 48.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend_hedge.ac -4.60594119 54.19681962 59.3104 247.3 1.1 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_hedge.ac -4.60739637 54.19697467 57.5346 84.0 -1.0 -0.0
-
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.60890130 54.19706829 56.3402 84.0 -0.4 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61037383 54.19717580 55.7630 81.9 -0.3 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61150167 54.19727751 55.7331 80.0 0.4 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half_hedge.ac -4.61222352 54.19734208 55.9190 82.6 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61297489 54.19738981 55.5561 84.9 -0.8 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61408068 54.19744370 54.6575 81.6 -0.6 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61554936 54.19765769 53.8483 74.3 -0.3 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61663234 54.19784068 53.6131 73.2 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_half.ac -4.61734805 54.19797666 53.4426 70.9 -0.4 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road_quater.ac -4.61782597 54.19807472 53.2848 70.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend_hedge.ac -4.61859137 54.19827561 52.5320 62.0 -0.9 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Road/road.ac -4.61983828 54.19878141 52.0652 52.0 0.3 -0.0
-
-
-
-# OBJECT_SHARED Models/Trees/buk1.xml -4.61112853 54.19719583 55.5060 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.61109305 54.19727948 55.5298 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.61791756 54.19804942 52.9200 0.0 0.0 -0.0
-# OBJECT_SHARED Models/Trees/buk1.xml -4.61784104 54.19812083 53.6007 0.0 0.0 -0.0
-
-# new Road Ballacrain to Barragarrow
+# new Road Greba to Barragarrow
 OBJECT_SHARED Models/RaceCourses/TT/Road/partGlenHelen.ac -4.62867820 54.20395581 0.0 90.0 0.0 -0.0
+
+# Greba Castle
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58195784 54.19034236 53.4068 53.1 2.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.58156172 54.19020116 52.3831 64.0 0.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.58079382 54.18981136 47.7411 55.0 0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58162943 54.19005838 52.1161 328.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.58234215 54.19043484 50.4402 54.0 3.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.58361136 54.19096777 57.2598 54.4 3.1 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58257176 54.19061029 55.4983 53.4 2.7 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/tree6m.ac -4.58169131 54.19011634 52.1145 27.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58160502 54.19024596 51.0800 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58234409 54.19057964 52.7186 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58222871 54.19054906 50.5625 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58364686 54.19116625 58.0556 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58315618 54.19086581 57.7272 53.1 2.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/bungalow3.xml -4.58344288 54.19107547 59.1198 324.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58332719 54.19103278 56.2004 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58385771 54.19117103 60.2822 53.0 2.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.58469634 54.19163019 60.6912 47.1 2.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.58487984 54.19149326 63.2816 50.6 3.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.58578945 54.19193705 67.2627 229.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58582480 54.19222477 67.2326 336.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.58544107 54.19205301 65.0452 224.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.58644394 54.19217093 66.4227 248.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendwhiteshort.xml -4.58607370 54.19224429 66.2088 72.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58655754 54.19233228 67.1143 69.1 2.2 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaCastle.xml -4.58446563 54.19133149 60.7677 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58818677 54.19259044 71.0803 70.1 2.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58801731 54.19249343 69.6870 72.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.58759815 54.19241887 69.1640 344.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.58689712 54.19228273 66.4228 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.58711151 54.19233163 67.5078 52.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml -4.58730958 54.19240072 69.0376 69.7 3.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.58758690 54.19262234 68.9284 69.8 2.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.58680691 54.19243124 67.7918 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.58865668 54.19270446 72.0013 260.0 -0.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.58866523 54.19280955 71.5595 64.6 -0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/castle.xml -4.58914601 54.19292046 72.2396 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/castle.xml -4.58899271 54.19295638 71.5962 264.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.58874889 54.19281147 71.4581 272.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.58896850 54.19280712 71.7511 272.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.58921185 54.19263735 69.4186 280.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58921966 54.19279513 70.4685 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58920826 54.19285320 70.3545 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58941217 54.19279263 70.9643 8.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml -4.58973256 54.19268724 71.8709 97.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.58931044 54.19277516 71.8794 292.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/bush1.xml -4.58750323 54.19238865 67.2166 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/bush1.xml -4.58750055 54.19240674 67.7593 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/lavendel.xml -4.58793478 54.19246225 67.3092 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/lavendel.xml -4.58792859 54.19249500 68.7060 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.59010113 54.19258464 71.4080 96.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml -4.58974516 54.19259458 71.7713 100.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.59049410 54.19261427 71.5355 72.0 0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.59084119 54.19268460 71.6325 70.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.59031892 54.19276098 69.4386 82.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.59163137 54.19295032 70.6536 249.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.59134062 54.19279170 71.5360 70.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.59071022 54.19259771 69.5440 84.0 0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.59191174 54.19286257 70.5805 70.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/tree6m.ac -4.59081496 54.19279999 71.6883 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/tree6m.ac -4.59102794 54.19261199 69.8176 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/tree6m.ac -4.59095559 54.19265941 71.4780 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.59187136 54.19288542 71.1494 70.3 -0.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59337626 54.19315568 69.7835 251.1 0.9 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59305977 54.19327785 70.4784 252.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59454725 54.19349203 68.1406 76.0 -1.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59489296 54.19340036 67.2846 74.0 -1.6 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.59573731 54.19376740 65.3294 340.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59566185 54.19354589 61.1039 245.4 2.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.59537684 54.19365378 61.6954 65.8 -1.9 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59663879 54.19383962 61.5505 263.3 1.6 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59597684 54.19378256 64.2199 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59577923 54.19355460 63.7389 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.59718259 54.19376207 60.4837 88.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59636019 54.19372181 63.0022 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59587967 54.19361873 63.0903 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59765420 54.19374174 62.6984 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59720275 54.19372191 60.5774 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59749898 54.19387109 59.4005 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.59806682 54.19387213 58.7325 268.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallwhite.xml -4.59827506 54.19375842 59.6793 88.0 -1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendwhite.xml -4.59900097 54.19379595 58.3273 75.6 -1.8 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.59892619 54.19379717 57.4646 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59907633 54.19392807 57.3769 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.59957162 54.19409729 57.6371 64.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60002321 54.19408491 57.5251 63.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.59927694 54.19385586 55.9041 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.58011258 54.18949235 47.7113 0.0 0.0 -0.0
+
+# Greba Bridge
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.59936906 54.19389623 57.4562 64.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.60147107 54.19450196 58.2531 320.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_silver.ac -4.60241920 54.19516427 59.1063 144.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hatchback_red.ac -4.60238443 54.19514491 59.0648 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/fence_wood.xml -4.60227004 54.19533731 59.2281 288.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.60096890 54.19436090 57.0078 59.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.60120297 54.19439332 56.2478 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.60080942 54.19446741 56.9460 59.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/ginster.xml -4.60137107 54.19444928 57.0049 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.60175734 54.19467048 57.6096 52.0 0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.60153090 54.19475216 56.4687 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60255944 54.19506278 58.7711 50.3 0.6 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60336107 54.19554083 59.3441 233.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60368000 54.19558307 59.6221 52.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.60439742 54.19607888 60.4546 48.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallshort.xml -4.60452769 54.19598378 59.7674 48.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.60498480 54.19617305 60.7808 316.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.60528544 54.19636461 60.6740 44.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallshort.xml -4.60513692 54.19651519 59.7545 44.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.60574105 54.19668028 61.1259 226.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.60557915 54.19651488 60.2527 222.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.60524829 54.19633465 59.9587 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.60620906 54.19673499 60.1899 256.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.60603820 54.19677748 61.1340 254.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.60614951 54.19688876 60.8961 262.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.60584049 54.19684392 61.1894 68.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.60550081 54.19668502 60.6629 44.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60717963 54.19696840 58.4494 260.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60723093 54.19688656 60.0058 81.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.60623811 54.19703922 60.8136 165.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.60631772 54.19705310 60.7706 346.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60868796 54.19701611 60.0469 81.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.60812438 54.19710551 58.8038 352.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.60965776 54.19700735 58.3854 261.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.61046560 54.19712795 58.0781 352.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/roadhouse.xml -4.61430076 54.19758748 56.2662 351.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.61470204 54.19756695 56.3005 75.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml -4.61409833 54.19749707 56.2867 84.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.61348108 54.19750185 56.2907 264.6 0.0 -0.0
+
+# straight to Ballacrain
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshortwhite.xml -4.60832296 54.19707262 59.3426 80.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.60910998 54.19715895 58.5308 260.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.61027280 54.19704579 58.2012 80.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge-short.ac -4.60996600 54.19703653 58.0909 176.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml -4.60989015 54.19712254 58.5308 216.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_red.ac -4.60993433 54.19706729 58.2182 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61061645 54.19730985 58.0528 260.0 0.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61137380 54.19724750 56.2411 82.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61226168 54.19741925 57.0153 264.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61141928 54.19739386 56.0868 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61161793 54.19726760 55.1948 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61313407 54.19748344 55.0788 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.60950339 54.19707078 57.8445 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.61006505 54.19698971 57.8718 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.60994705 54.19698096 57.9347 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.60796307 54.19706383 59.1716 0.0 6.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61296360 54.19737215 55.0744 85.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61213263 54.19730255 55.2229 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/shelter.xml -4.61358970 54.19766023 57.0282 261.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.61448694 54.19745801 53.3205 79.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61582657 54.19774883 54.2999 255.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61632753 54.19773914 54.4552 76.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.61545145 54.19757899 55.8322 345.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62308872 54.20019169 57.1413 320.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61818418 54.19809594 55.2018 64.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61800467 54.19804972 55.2077 68.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61837456 54.19815351 55.1558 61.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61856480 54.19821663 55.1024 60.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61874957 54.19827993 55.1772 60.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.61893077 54.19834371 55.2374 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61759982 54.19795819 55.6783 71.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61729153 54.19800682 54.3679 251.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.61839011 54.19830811 53.2737 60.0 0.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61939566 54.19866609 55.0875 233.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.61948173 54.19859148 54.5157 52.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62066537 54.19912078 54.2542 52.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62069850 54.19923986 55.7447 232.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62194403 54.19968996 55.7248 52.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62191353 54.19979285 55.0434 231.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61499707 54.19764807 54.8093 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61788282 54.19801022 54.3263 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.61884412 54.19827361 53.1626 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62001042 54.19895569 54.6331 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.62131186 54.19937961 56.1535 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.62251953 54.20011448 55.9908 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.62264579 54.19999167 56.6503 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.62258941 54.19996979 55.7060 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.62342892 54.20036179 55.1129 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62322472 54.20042512 55.7001 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62420716 54.20082826 54.5924 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.62424755 54.20071309 54.5755 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.62522448 54.20109702 54.0249 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62588033 54.20148503 53.6311 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62334332 54.20049960 54.6778 230.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62381664 54.20053009 56.5425 55.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62467841 54.20102239 53.1893 237.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62515183 54.20107681 53.7208 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62396326 54.20080293 53.6579 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62595390 54.20152717 53.3724 235.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62634009 54.20156126 51.6466 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62721686 54.20198638 51.3481 236.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62755258 54.20203578 52.7885 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62646676 54.20174072 52.5152 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62827638 54.20229943 52.8346 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62846068 54.20257917 52.7093 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.62853737 54.20239002 54.3890 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.62816250 54.20235788 54.5773 56.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/bungalow3.xml -4.62896545 54.20284499 55.9960 268.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62873744 54.20275831 54.2113 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62930871 54.20270490 52.7733 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62921294 54.20259823 53.2930 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62888300 54.20251031 53.1533 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.62907790 54.20229058 49.5758 336.0 3.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/flag.xml -4.62879134 54.20267937 54.8455 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard.xml -4.62929887 54.20277004 55.7321 4.0 3.5 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/shack.xml -4.62922829 54.20255707 55.5363 337.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge-bend-short.ac -4.62904850 54.20279029 55.2007 212.0 -4.8 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.62867066 54.20258694 53.8154 54.5 0.6 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.62908376 54.20302509 56.9360 1.6 3.7 -0.0
 
 # Sarahs Cottage
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.63285265 54.21852591 88.6670 28.0 0.0 -0.0
@@ -175,9 +331,79 @@ OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.63285265 54.21852591 88.667
 OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62866340 54.20268117 54.2154 332.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62892941 54.20329458 58.3232 4.0 0.0 -0.0
 OBJECT_SHARED Models/RaceCourses/TT/bungalow1.xml -4.62931891 54.20314535 58.1540 0.0 0.0 -0.0
-OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62935666 54.20292590 56.9727 348.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62937218 54.20299033 56.4 352.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard_small.xml -4.62925781 54.20291907 56.7980 332.0 4.1 -0.0
+OBJECT_SHARED Models/RaceCourses/KaleviCircuit/old_guard_small.xml -4.62932937 54.20290053 56.3417 260.6 0.9 -0.0
 
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.62923793 54.20307696 57.2831 1.2 2.8 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62904643 54.20365959 58.8982 1.7 2.8 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62924222 54.20337409 58.7280 1.9 2.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.62930282 54.20385083 62.0440 1.6 2.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62929745 54.20444095 65.1658 1.6 3.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62916025 54.20450397 65.3309 181.8 -2.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.62940091 54.20507330 67.3038 184.1 -1.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.62918415 54.20511646 68.1442 185.0 -1.5 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.62923965 54.20532811 68.0804 198.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendwhite.xml -4.62939669 54.20542286 70.0533 199.3 -3.2 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.62938207 54.20521846 65.7852 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/guards_red_white_tt.ac -4.62944422 54.20563329 70.7323 28.0 0.9 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.62975438 54.20569625 69.9827 209.1 -2.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.62978667 54.20596218 67.8090 208.5 -0.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.63011513 54.20615115 70.3963 28.3 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62971733 54.20596676 70.0222 8.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.62935546 54.20556671 70.1199 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/tree6m.ac -4.63030840 54.20635404 70.5794 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.63058652 54.20679839 66.9761 18.3 -0.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.63035432 54.20678928 70.0030 18.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63007243 54.20633508 70.7689 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.63083842 54.20743023 69.3478 2.2 -1.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63080862 54.20722528 68.6945 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbend.xml -4.63058829 54.20764414 69.0307 359.1 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62936371 54.20592783 72.2414 120.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62945968 54.20593337 70.3938 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.62935478 54.20579322 63.7381 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63096125 54.20769587 68.2317 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml -4.63080950 54.20766823 68.8102 224.0 1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend90.xml -4.63080924 54.20770204 68.7746 136.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wall.xml -4.63082602 54.20793760 69.3423 355.6 1.4 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63052458 54.20853570 70.5608 173.8 -1.3 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63067173 54.20860756 71.0320 354.0 2.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63095048 54.20784673 69.0263 344.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63038894 54.20939950 73.1431 175.2 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63052636 54.20950659 73.3618 354.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63042758 54.20891088 71.6104 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63060875 54.20918705 73.3202 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63080299 54.20812597 67.8918 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63057721 54.20805080 68.5340 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63043615 54.20859778 70.7564 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.63057767 54.20717035 68.6224 0.0 0.0 -0.0
 
+# Poortown Road 
+OBJECT_SHARED Models/RaceCourses/TT/bungalow3.ac -4.63064255 54.21040246 66.9712 78.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/bungalow3.ac -4.63029811 54.21106683 70.7010 346.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/bungalow3.xml -4.63045683 54.21085722 67.0182 352.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/bungalow3.xml -4.63046466 54.21079144 67.0052 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallwhite.xml -4.63048699 54.20998931 71.2995 354.1 -0.7 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallshort.xml -4.63033387 54.20984532 71.6830 175.6 1.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallshort.xml -4.63018266 54.21061352 69.1462 169.6 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallwhite.xml -4.63030005 54.21017117 71.4261 354.9 -2.2 -0.0
+OBJECT_SHARED Models/RaceCourses/UeberlingenAltstadt/hedge.ac -4.63029116 54.21077504 69.7796 348.8 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.63024658 54.21113112 66.4617 173.4 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.63013938 54.21133903 68.5284 176.4 1.9 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.63026978 54.21157384 67.5906 190.5 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml -4.63015022 54.21162281 68.4717 192.0 -1.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallshort.xml -4.63005338 54.21105534 69.3997 171.1 -0.2 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwallbendshort.xml -4.62999195 54.21142411 69.5404 179.9 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/greenwall.xml -4.63022590 54.21197536 70.8419 199.8 -1.8 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63027719 54.20982976 73.0017 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63055552 54.21060083 67.1603 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree2.xml -4.63035402 54.21073360 64.7228 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree3.xml -4.63047991 54.20995377 72.5709 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree1.xml -4.63021798 54.21034328 69.6044 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/UGP/tree4.xml -4.63044747 54.21049215 66.3329 0.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbendshort.xml -4.63013258 54.21134276 70.2052 178.6 -0.1 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallshort.xml -4.63021330 54.21114116 70.2001 351.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/Southern100/wallbend.xml -4.63015722 54.21164566 70.3020 193.2 -0.2 -0.0
 
 #  OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62938026 54.20293186 54.1044 0.0 0.0 -0.0
 #  OBJECT_SHARED Models/RaceCourses/TT/bungalow2.xml -4.62878012 54.20269191 51.6868 339.0 0.0 -0.0
@@ -275,11 +501,11 @@ OBJECT_SHARED Models/RaceCourses/TT/puplic_house.xml -4.62935666 54.20292590 56.
 # # OBJECT_SHARED Models/RaceCourses/TT/Road/grade2_bend.ac -4.61963528 54.22864798 131.8706 344.0 0.0 -0.0
 # # OBJECT_SHARED Models/RaceCourses/TT/Road/grade1_bend.ac -4.61916119 54.22930758 133.5287 159.9 -1.9 -0.0
 #
-# # Other Road signs
-# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/QuaterBridge.xml -4.50197079 54.15599818 18.4312 159.7 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BraddanBridge.xml -4.50328055 54.15852676 22.1627 104.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Signs//1/UnionMills.xml -4.51621252 54.16689398 34.7489 144.0 0.0 -0.0
-# OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Ballagarey.xml -4.54390133 54.17278057 69.1338 148.0 0.0 -0.0
+# Other Road signs
+OBJECT_SHARED Models/RaceCourses/TT/Signs/1/QuaterBridge.xml -4.50197079 54.15599818 18.4312 159.7 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/Signs/1/BraddanBridge.xml -4.50328055 54.15852676 22.1627 104.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/Signs//1/UnionMills.xml -4.51621252 54.16689398 34.7489 144.0 0.0 -0.0
+OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Ballagarey.xml -4.54390133 54.17278057 69.1338 148.0 0.0 -0.0
 # OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaCastle.xml -4.58238929 54.19043279 53.2228 164.0 0.0 -0.0
 # OBJECT_SHARED Models/RaceCourses/TT/Signs/1/Appledene.xml -4.58718316 54.19238052 67.6772 164.0 0.0 -0.0
 # OBJECT_SHARED Models/RaceCourses/TT/Signs/1/GreebaBridge.xml -4.60406482 54.19582443 59.8197 144.0 0.0 -0.0
