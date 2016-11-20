@@ -1794,6 +1794,83 @@ var open = func(){
 
 		track.setData(data);
 	}
+	###############################
+	elsif((nearestAirport == "LEVC")){
+		
+		track = RaceTrack.new("Espagna - Circuit Ricardo Tormo, Valencia",39.48522545,-0.63070886);
+		track.setRange(0.4);
+		track.setRotation(-35);
+		
+		track.appendSector(RaceTrackSector.new("Start/Finish",39.48352442,-0.63107623,163,16,17));
+		track.appendSector(RaceTrackSector.new("1 Aspar",39.48624960,-0.62619237,163,0,20));
+		track.appendSector(RaceTrackSector.new("Doohan",39.48937561,-0.62778749,164,9,-10));
+		track.appendSector(RaceTrackSector.new("2",39.48937561,-0.62778749,164,10,0));
+		track.appendSector(RaceTrackSector.new("3 ",39.48798760,-0.62826448,162,12,7));
+		track.appendSector(RaceTrackSector.new("4",39.48674678,-0.62715779,164,-11,-5));
+		track.appendSector(RaceTrackSector.new("N.Terol",39.48674678,-0.62715779,164,-15,14));
+		track.appendSector(RaceTrackSector.new("5",39.48609148,-0.62883411,162,-10,0));
+		track.appendSector(RaceTrackSector.new("6",39.48839112,-0.62927673,162,6,-4));
+		track.appendSector(RaceTrackSector.new("A.Nieto ",39.48839112,-0.62927673,162,8,-15));
+		track.appendSector(RaceTrackSector.new("7",39.48691625,-0.63267760,160,-13,0));
+		track.appendSector(RaceTrackSector.new("Curva de la Aficion",39.48691625,-0.63267760,160,-15,-10));
+		track.appendSector(RaceTrackSector.new("8 B.Martinez",39.48525131,-0.63357134,157,-48,0));
+		track.appendSector(RaceTrackSector.new("9",39.48578363,-0.63164203,157,0,-7));
+		track.appendSector(RaceTrackSector.new("10",39.48673664,-0.63132601,157,0,-5));
+		track.appendSector(RaceTrackSector.new("11",39.48718634,-0.63002428,156,-14,4));
+		track.appendSector(RaceTrackSector.new("12 C.Herreros",39.48457358,-0.63181668,155,7,12));
+		track.appendSector(RaceTrackSector.new("13",39.48416688,-0.63416515,159,0,15));
+		track.appendSector(RaceTrackSector.new("14 A.Campos",39.48158735,-0.63489018,159,30,20));
+		
+		data = [];
+		append(data,[-0.63468635,39.48159873,162.8825]);
+		append(data,[-0.62644286,39.48604369,150.9589]);
+		append(data,[-0.62615989,39.48634419,150.4310]);
+		append(data,[-0.62615791,39.48677457,150.0757]);
+		append(data,[-0.62742863,39.48917626,152.4150]);
+		append(data,[-0.62765348,39.48935612,152.7312]);
+		append(data,[-0.62795305,39.48936330,153.1880]);
+		append(data,[-0.62813557,39.48919064,153.4579]);
+		append(data,[-0.62830363,39.48808916,153.7452]);
+		append(data,[-0.62820034,39.48784267,153.6033]);
+		append(data,[-0.62727666,39.48696376,152.1946]);
+		append(data,[-0.62718988,39.48677102,152.0704]);
+		append(data,[-0.62734965,39.48658891,152.3488]);
+		append(data,[-0.62828765,39.48608006,155.1973]);
+		append(data,[-0.62862248,39.48601301,156.3615]);
+		append(data,[-0.62901062,39.48625056,157.6919]);
+		append(data,[-0.62909077,39.48645297,157.9807]);
+		append(data,[-0.62910525,39.48816636,159.2833]);
+		append(data,[-0.62926102,39.48839970,160.0932]);
+		append(data,[-0.62967264,39.48850207,161.8134]);
+		append(data,[-0.63261148,39.48698090,170.0690]);
+		append(data,[-0.63276627,39.48684108,170.3799]);
+		append(data,[-0.63365549,39.48566529,170.1545]);
+		append(data,[-0.63366342,39.48538154,170.1536]);
+		append(data,[-0.63322201,39.48505492,170.1508]);
+		append(data,[-0.63288405,39.48506625,170.1496]);
+		append(data,[-0.63179017,39.48564024,167.9537]);
+		append(data,[-0.63158111,39.48590464,167.9205]);
+		append(data,[-0.63139170,39.48656672,167.2695]);
+		append(data,[-0.63115273,39.48688823,166.0872]);
+		append(data,[-0.63047917,39.48723994,162.8027]);
+		append(data,[-0.63007064,39.48722263,160.7565]);
+		append(data,[-0.62992081,39.48699808,160.0450]);
+		append(data,[-0.63164634,39.48467225,163.8719]);
+		append(data,[-0.63196500,39.48454378,164.8445]);
+		append(data,[-0.63224285,39.48456656,165.7069]);
+		append(data,[-0.63262447,39.48459221,166.8951]);
+		append(data,[-0.63306405,39.48456640,168.2492]);
+		append(data,[-0.63355167,39.48446027,169.1430]);
+		append(data,[-0.63395119,39.48429752,169.1654]);
+		append(data,[-0.63433660,39.48405583,169.0676]);
+		append(data,[-0.63470719,39.48370190,167.6263]);
+		append(data,[-0.63502222,39.48322326,166.0069]);
+		append(data,[-0.63520557,39.48265500,164.4802]);
+		append(data,[-0.63512865,39.48173561,163.1436]);
+		append(data,[-0.63496183,39.48161132,163.0498]);
+
+		track.setData(data);
+	}
 ###############################
 	else{
 		track = nil;
