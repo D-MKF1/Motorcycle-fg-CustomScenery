@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<groundnet>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-Silverstone-Start"
+             lat="N52 03.86355"
+             lon="W1 01.18887"
+             heading="330"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<groundnet>
+   <parkingList>
+        <Parking index="0"
+             type="gate"
+             name=""
+             number="01-Start-Tandragee"
+             lat="N54 19.74191"
+             lon="W6 27.26047"
+             heading="285"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="1"
+             type="gate"
+             name=""
+             number="02-Start-Tandragee"
+             lat="N54 19.74138"
+             lon="W6 27.26462"
+             heading="285"
+             radius="8"
+             airlineCodes="" />
+        <Parking index="2"
+             type="gate"
+             name=""
+             number="03-Start-Tandragee"
+             lat="N54 19.73937"
+             lon="W6 27.25270"
+             heading="285"
+             radius="8"
+             airlineCodes="" />
+  </parkingList>
+  <TaxiNodes>
+  </TaxiNodes>
+  <TaxiWaySegments>
+  </TaxiWaySegments>
+</groundnet>

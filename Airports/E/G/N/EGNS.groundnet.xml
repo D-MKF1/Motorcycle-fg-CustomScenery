@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
 <groundnet>
-  <frequencies>
-    <AWOS>12602</AWOS>
-    <AWOS>12602</AWOS>
-    <TOWER>12010</TOWER>
-    <APPROACH>11927</APPROACH>
-    <APPROACH>11927</APPROACH>
-  </frequencies>
    <parkingList>
-        <Parking index="0"
+	           <Parking index="0" type="gate" name="East_Apron" lat="N54 5.196852" lon="W4 37.980156" heading="226.03"  radius="44" pushBackRoute="None" airlineCodes="" />
+	           <Parking index="1" type="gate" name="East_Apron_2" lat="N54 5.247152" lon="W4 37.944638" heading="47.64"  radius="44" pushBackRoute="None" airlineCodes="" />
+	           <Parking index="2" type="gate" name="GA_Apron" lat="N54 4.965394" lon="W4 36.916022" heading="238.91"  radius="44" pushBackRoute="None" airlineCodes="" />
+	           <Parking index="3" type="gate" name="West_Apron" lat="N54 5.179735" lon="W4 38.053190" heading="45.58"  radius="44" pushBackRoute="None" airlineCodes="" />
+
+        <Parking index="4"
              type="gate"
              name=""
              number="01-Start"
@@ -18,7 +16,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="1"
+    <Parking index="5"
              type="gate"
              name=""
              number="02-Start"   
@@ -28,7 +26,7 @@
              radius="7"
              airlineCodes="" />
 
-    <Parking index="2"
+    <Parking index="6"
              type="gate"
              name=""
              number="03-Start"
@@ -38,7 +36,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="3"
+    <Parking index="7"
              type="gate"
              name=""
              number="04-Start"
@@ -48,7 +46,7 @@
              radius="8"
              airlineCodes="" />
 			 
-     <Parking index="4"
+     <Parking index="8"
               type="gate"
               name=""
               number="01-Southern100"
@@ -58,7 +56,7 @@
               radius="8"
               airlineCodes="" />
 
-     <Parking index="5"
+     <Parking index="9"
               type="gate"
               name=""
               number="02-Southern100"   
@@ -68,7 +66,7 @@
               radius="7"
               airlineCodes="" />
 
-     <Parking index="6"
+     <Parking index="10"
               type="gate"
               name=""
               number="03-Southern100"
@@ -78,7 +76,7 @@
               radius="8"
               airlineCodes="" />
 
-     <Parking index="7"
+     <Parking index="11"
               type="gate"
               name=""
               number="04-Southern100"
@@ -88,7 +86,7 @@
               radius="8"
               airlineCodes="" />
 
-     <Parking index="8"
+     <Parking index="12"
               type="gate"
               name=""
               number="05-Southern100"
@@ -98,7 +96,7 @@
               radius="8"
               airlineCodes="" />
 
-	 <Parking index="9"
+	 <Parking index="13"
 	          type="gate"
 	          name=""
 	          number="05-QuaterBridge"
@@ -108,7 +106,7 @@
 	          radius="8"
 	          airlineCodes="" />
 
-	 <Parking index="10"
+	 <Parking index="14"
 	          type="gate"
 	          name=""
 	          number="06-BraddanBridge"
@@ -118,7 +116,7 @@
 	          radius="8"
 	          airlineCodes="" />
 
-	 <Parking index="11"
+	 <Parking index="15"
 	          type="gate"
 	          name=""
 	          number="07-UnionMills"
@@ -128,7 +126,7 @@
 	          radius="8"
 	          airlineCodes="" />
 
- 	 <Parking index="12"
+ 	 <Parking index="16"
  	          type="gate"
  	          name=""
  	          number="08-Ballagarey"
@@ -138,7 +136,7 @@
  	          radius="8"
  	          airlineCodes="" />
 
- 	 <Parking index="13"
+ 	 <Parking index="17"
  	          type="gate"
  	          name=""
  	          number="09-GreebaCastle"
@@ -148,7 +146,7 @@
  	          radius="8"
  	          airlineCodes="" />
 
- 	 <Parking index="14"
+ 	 <Parking index="18"
  	          type="gate"
  	          name=""
  	          number="10-GreebaBridge"
@@ -158,7 +156,7 @@
  	          radius="8"
  	          airlineCodes="" />
 
-    <Parking index="15"
+    <Parking index="19"
              type="gate"
              name=""
              number="11-Ballacraine"
@@ -168,7 +166,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="16"
+    <Parking index="20"
              type="gate"
              name=""
              number="12-9thMilestone"
@@ -178,7 +176,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="17"
+    <Parking index="21"
              type="gate"
              name=""
              number="13-GlenHelen"
@@ -188,7 +186,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="18"
+    <Parking index="22"
              type="gate"
              name=""
              number="14-SarahsCottage"
@@ -198,7 +196,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="19"
+    <Parking index="23"
              type="gate"
              name=""
              number="15-Cronk-y-Voddy"
@@ -208,7 +206,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="20"
+    <Parking index="24"
              type="gate"
              name=""
              number="16-Barregarrow"
@@ -218,7 +216,7 @@
              radius="8"
              airlineCodes="" />
 			 
-	<Parking index="21"
+	<Parking index="25"
 		     type="gate"
 		     name=""
 		     number="17-KirkMichael"
@@ -228,7 +226,7 @@
 		     radius="8"
 		     airlineCodes="" />
 
-    <Parking index="22"
+    <Parking index="26"
              type="gate"
              name=""
              number="18-Ballaugh"
@@ -238,7 +236,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="23"
+    <Parking index="27"
              type="gate"
              name=""
              number="19-SulbyBridge"
@@ -248,7 +246,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="24"
+    <Parking index="28"
              type="gate"
              name=""
              number="20-Ramsey"
@@ -258,7 +256,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="25"
+    <Parking index="29"
              type="gate"
              name=""
              number="21-Joeys"
@@ -268,7 +266,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="26"
+    <Parking index="30"
              type="gate"
              name=""
              number="22-MountainBox"
@@ -278,7 +276,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="27"
+    <Parking index="31"
              type="gate"
              name=""
              number="23-Verandah"
@@ -288,7 +286,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="28"
+    <Parking index="32"
              type="gate"
              name=""
              number="24-Bungalow"
@@ -298,7 +296,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="29"
+    <Parking index="33"
              type="gate"
              name=""
              number="25-WindyCorner"
@@ -308,7 +306,7 @@
              radius="8"
              airlineCodes="" />
 
-    <Parking index="30"
+    <Parking index="34"
              type="gate"
              name=""
              number="26-KeppelGate"
@@ -318,7 +316,7 @@
              radius="8"
              airlineCodes="" />
 
-	  <Parking index="31"
+	  <Parking index="35"
 		     type="gate"
 		     name=""
 		     number="27-Creg-Ny-Baa"
@@ -328,7 +326,7 @@
 		     radius="8"
 		     airlineCodes="" />
 
-   	  <Parking index="32"
+   	  <Parking index="36"
    		     type="gate"
    		     name=""
    		     number="28-Signpost"
@@ -339,8 +337,4 @@
    		     airlineCodes="" />
 
   </parkingList>
-  <TaxiNodes>
-  </TaxiNodes>
-  <TaxiWaySegments>
-  </TaxiWaySegments>
 </groundnet>

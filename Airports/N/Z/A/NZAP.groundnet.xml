@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<groundnet>
+  <parkingList>
+    <Parking index="0"
+             type="gate"
+             name="01-Taupo-McLaren-Sportpark-Start"
+             number="1"
+             lat="S38 39.78417"
+             lon="E176 08.83749"
+             heading="314"
+             radius="54"
+             airlineCodes="" />
+
+    <Parking index="1"
+             type="gate"
+             name="02-Taupo-McLaren-Sportpark-Start"
+             number="1"
+             lat="S38 39.78976"
+             lon="E176 08.83836"
+             heading="314"
+             radius="54"
+             airlineCodes="" />
+
+    <Parking index="2"
+             type="gate"
+             name="03-Taupo-McLaren-Sportpark-Start"
+             number="1"
+             lat="S38 39.79279"
+             lon="E176 08.84951"
+             heading="314"
+             radius="54"
+             airlineCodes="" />
+
+    <Parking index="3"
+             type="gate"
+             name="04-Taupo-McLaren-Sportpark-Start"
+             number="1"
+             lat="S38 39.79719"
+             lon="E176 08.84869"
+             heading="314"
+             radius="54"
+             airlineCodes="" />
+  </parkingList>
+</groundnet>
