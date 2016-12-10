@@ -88,16 +88,8 @@ var show_mp_times = func{
 	# fill in the multiplayer datas in the hash
 	for(var v=0; v < otherNr; v+=1){
 
-		if ((mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/BMW-S-RR/Models/BMW-S-1000-RR.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Suzuki-GSX-R/Models/Suzuki-GSX-R1000.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Kawa-ZX10R/Models/Kawasaki-ZX10R.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZF-R1.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Yamaha-YZF/Models/Yamaha-YZR-M1.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-RC213V/Models/Honda-RC213V.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-CBR/Models/Honda-CBR1000RR.xml" or
+		if ((mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Suzuki-GSX-R/Models/Suzuki-GSX-R1000.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Honda-NSF/Models/Honda-NSF100.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Panigale-R.xml" or
-			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Ducati/Models/Desmo-GP16.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/BMW-S-RR/Models/BMW-S1000RR.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Honda-CBR-RR/Models/Honda-CBR-RR.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Kawa-ZX10RR/Models/Kawa-ZX10RR.xml" or
@@ -105,6 +97,9 @@ var show_mp_times = func{
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Yamaha-YZF/Models/Yamaha-R1.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Yamaha-YZF/Models/Yamaha-M1.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/KTM-RC16/Models/KTM-RC16.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Ducati/Models/Panigale-1299R.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Ducati/Models/Desmo-GP17.xml" or
+			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/Motorcycle-Racing/Honda-RC213V/Models/Honda-RC214V.xml" or
 			mpOther[v].getNode("sim/model/path").getValue() == "Aircraft/LCR/Models/LCR-F2.xml")
 			and mpOther[v].getNode("id").getValue() >= 0) {
 
