@@ -1,5 +1,3 @@
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.461618 54.263283 611.42 180
-OBJECT_SHARED Models/Misc/trigpoint.xml -4.393951 54.290186 540.6 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -4.3863833 54.3717434 12.79 180
 OBJECT_STATIC Maughold_Head_Lighthouse.xml -4.313194 54.29934905 87.59 12
 OBJECT_SHARED Models/RaceCourses/TT/tire-abuttments.xml -4.47357211 54.32295267 15.9136 276.0 0.0 -0.0
